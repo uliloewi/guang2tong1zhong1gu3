@@ -63,7 +63,7 @@ speller:
     - derive/ë/ee/
     - derive/ï/ii/
     
-    # 輕脣音
+    # 晚期輕脣音
     - derive/bü/bvuu/    
     - derive/byo/bvyo/   
     - derive/byu/bvyu/
@@ -73,7 +73,15 @@ speller:
     - derive/phü/pfhuu/    
     - derive/phyo/pfhyo/   
     - derive/phyu/pfhyu/
-    - derive/mü/mvuu/   
+    - derive/mü/mvuu/ 
+
+    # 早期四等無介音
+    - derive/iei/ei/    
+    - derive/vei/oei/   
+    - derive/ien/en/
+    - derive/ven/oen/    
+    - derive/iem/em/
+    - derive/ieu/eu/   
 
 translator:
   dictionary: guangtong
