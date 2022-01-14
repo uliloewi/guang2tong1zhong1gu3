@@ -62,6 +62,18 @@ speller:
     - derive/ö/oo/
     - derive/ë/ee/
     - derive/ï/ii/
+    
+    # 輕脣音
+    - derive/bü/bvuu/    
+    - derive/byo/bvyo/   
+    - derive/byu/bvyu/
+    - derive/pü/pfuu/    
+    - derive/pyo/pfyo/   
+    - derive/pyu/pfyu/
+    - derive/phü/pfhuu/    
+    - derive/phyo/pfhyo/   
+    - derive/phyu/pfhyu/
+    - derive/mü/mvuu/   
 
 translator:
   dictionary: guangtong
