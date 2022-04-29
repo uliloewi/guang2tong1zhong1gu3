@@ -510,7 +510,7 @@ use_preset_vocabulary: true
 扒	prä̀i
 𢟡	brä̀i
 憊	brä̀i
-韝	brä̀i
+韛	brä̀i
 𣡖	brä̀i
 𤸶	brä̀i
 棑	brä̀i
@@ -1395,7 +1395,6 @@ use_preset_vocabulary: true
 肑	prök
 爆	prök
 𪇰	prök
-髉	prök
 㿺	prök
 䑈	prök
 趵	prök
@@ -1466,9 +1465,9 @@ use_preset_vocabulary: true
 埠	bò
 捕	bò
 哺	bò
-鞴	bò
+𩊬	bò
 餔	bò
-鮬	bò
+𩷖	bò
 𩣝	bò
 䒀	bò
 𨛒	bò
@@ -2526,7 +2525,7 @@ use_preset_vocabulary: true
 褫	tchyḯ
 𧖛	tchyí
 齒	tsjhý
-紕	tsjhý
+䊼	tsjhý
 恥	tchý
 祉	tchý
 褫	tchý
@@ -2967,6 +2966,7 @@ use_preset_vocabulary: true
 顙	tshyang
 鶬	tshyang
 錆	tshyang
+爿	dzyang
 牆	dzyang
 廧	dzyang
 墻	dzyang
@@ -3333,7 +3333,6 @@ use_preset_vocabulary: true
 𧩪	tshùng
 謥	tshùng
 憁	tshùng
-趥	tshyùng
 搊	tschyu
 𢬆	tschyu
 篘	tschyu
@@ -3712,6 +3711,7 @@ use_preset_vocabulary: true
 㿯	töp
 㯚	töp
 沓	döp
+𣣴	döp
 誻	döp
 遝	döp
 㧺	döp
@@ -9784,7 +9784,6 @@ use_preset_vocabulary: true
 龠	jyak
 䋤	jyak
 𠩃	jyak
-屵	jyak
 敫	jyak
 籥	jyak
 𢅹	jyak
@@ -9963,7 +9962,7 @@ use_preset_vocabulary: true
 浟	jyu
 𠧷	jyu
 𢋅	jyu
-冘	jyu
+尤	jyu
 邎	jyu
 輶	jyu
 蘨	jyu
@@ -9981,7 +9980,7 @@ use_preset_vocabulary: true
 䚻	jyu
 鮋	jyu
 䱔	jyu
-抌	jyu
+扰	jyu
 揄	jyu
 舀	jyu
 偤	jyu
@@ -10238,6 +10237,7 @@ use_preset_vocabulary: true
 鉸	krau
 摎	krau
 佼	krau
+𦫶	krau
 芁	krau
 艽	krau
 詨	krau
@@ -11970,7 +11970,7 @@ use_preset_vocabulary: true
 漷	khuak
 𠠎	khuak
 籗	khuak
-噋	khuak
+㗥	khuak
 擴	khuak
 𧍕	khwäk
 𠠎	khwäk
@@ -13043,6 +13043,7 @@ J	nrà
 嘹	lieu
 熮	lieu
 佬	lieu
+潦	lieu
 燎	liäu
 髎	liäu
 了	liéu
@@ -15815,9 +15816,9 @@ J	nrà
 抛	phrau
 拋	phrau
 泡	phrau
-𠐋	phrau
+𠐋	khrau
 𢿏	phrau
-𦫶	phrau
+𦫶	khrau
 㯱	phau
 藨	phau
 䫽	phau
@@ -16572,7 +16573,7 @@ J	nrà
 𧄍	giäu
 嘺	giäu
 䎗	giäu
-𤖻	giäu
+牊	dzjiäu
 巧	khráu
 䲾	khráu
 磽	khiéu
@@ -19164,6 +19165,7 @@ J	nrà
 䊝	siät
 𣽒	siät
 𣊓	siät
+暬	siät
 絬	siät
 㡜	siät
 疶	siät
@@ -19970,7 +19972,7 @@ J	nrà
 駛	scý
 𩰢	scý
 枲	sý
-萆	sý
+葈	sý
 𤟧	sý
 䈚	sý
 葸	sý
@@ -21751,7 +21753,7 @@ J	nrà
 衛	üèj
 軎	üèj
 轊	üèj
-璏	üèj
+㻰	üèj
 𥶽	üèj
 𧲝	üèj
 𧲔	üèj
@@ -21830,7 +21832,6 @@ J	nrà
 諢	ngùon
 迂	qüo
 紆	qüo
-靪	qüo
 陓	qüo
 扜	qüo
 䩽	qüo
@@ -22186,7 +22187,7 @@ J	nrà
 閾	üyk
 䫻	üyt
 𣅕	üyt
-汨	üyt
+汩	üyt
 𦳯	üyt
 㧒	üyt
 聿	jvit
@@ -22414,7 +22415,7 @@ J	nrà
 曰	üot
 𥩡	üot
 𡛟	üot
-璏	üot
+㻰	üot
 熭	üot
 𣐋	üot
 𧊎	üot
@@ -25169,7 +25170,7 @@ J	nrà
 㾻	dcyò
 佇	dcyó
 竚	dcyó
-茅	dcyó
+芧	dcyó
 苧	dcyó
 紵	dcyó
 杼	dcyó
@@ -26466,7 +26467,6 @@ J	nrà
 嫉	dzì
 胾	tscỳ
 椔	tscỳ
-檣	tscỳ
 事	tscỳ
 剚	tscỳ
 倳	tscỳ
