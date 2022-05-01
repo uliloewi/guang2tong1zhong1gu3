@@ -498,7 +498,7 @@ use_preset_vocabulary: true
 抱	báu
 擺	pré
 捭	pré
-庍	prè
+𠂢	prè
 粺	brè
 𥽚	brè
 稗	brè
@@ -931,7 +931,6 @@ use_preset_vocabulary: true
 苾	bit
 䩛	bit
 佖	bit
-鮩	bit
 駜	bit
 坒	bit
 飶	bit
@@ -1414,7 +1413,6 @@ use_preset_vocabulary: true
 謈	brök
 𧬉	brök
 犦	brök
-豰	brök
 窇	brök
 𥭓	brök
 𦢊	brök
@@ -3340,7 +3338,6 @@ use_preset_vocabulary: true
 㮲	tschyu
 𥻤	tschyu
 謅	tschyu
-䜅	tshu
 愁	dzcyu
 㵞	dzcyu
 㔌	dzu
@@ -4741,7 +4738,6 @@ use_preset_vocabulary: true
 帾	tó
 楮	tó
 䁈	tó
-㕆	tó
 渡	dò
 斁	dò
 鍍	dò
@@ -5064,7 +5060,7 @@ use_preset_vocabulary: true
 籓	püon
 鐇	püon
 䒦	phüöm
-范	phüöm
+𣢲	phüöm
 方	püang
 汸	püang
 坊	püang
@@ -5636,6 +5632,7 @@ use_preset_vocabulary: true
 䯽	phüó
 𠟌	phüó
 䞤	phüó
+𠹪	phüó
 副	phyù
 仆	phyù
 𩯅	phyù
@@ -5685,7 +5682,6 @@ use_preset_vocabulary: true
 赴	phüò
 𠓗	phüò
 䞯	phüò
-䎷	phüò
 豧	phüò
 簠	phüò
 訃	phüò
@@ -8800,7 +8796,6 @@ use_preset_vocabulary: true
 圔	qräp
 凹	qräp
 浥	qräp
-䀴	ngräp
 鴨	qrap
 壓	qrap
 閘	qrap
@@ -9012,7 +9007,7 @@ use_preset_vocabulary: true
 殀	qyä́u
 芺	qyä́u
 仸	qyä́u
-鷕	jiä́u
+鷕	jví
 溔	jiä́u
 舀	jiä́u
 𦥨	jiä́u
@@ -10705,7 +10700,7 @@ use_preset_vocabulary: true
 䝸	gyï̀
 㧘	gyï̀
 汥	gyï̀
-䛋	gyï̀
+𧧟	gyï̀
 馶	kiï̀
 翨	kiï̀
 冀	kyì
@@ -12765,7 +12760,6 @@ J	nrà
 䇐	lì
 膩	nyì
 𦡸	nyì
-䁊	nyì
 䣵	nyì
 吏	lỳ
 𢟤	lỳ
@@ -13038,7 +13032,6 @@ J	nrà
 髎	lieu
 𡽐	lieu
 蟧	lieu
-𦿌	lieu
 敹	lieu
 嘹	lieu
 熮	lieu
@@ -13734,6 +13727,8 @@ J	nrà
 騾	luö
 驘	luö
 𦿌	luö
+蔂	luö
+蔂	lvi
 鸁	luö
 𣜄	luö
 螺	luö
@@ -13744,6 +13739,7 @@ J	nrà
 𨰠	luö
 鏍	luö
 覼	luö
+覶	luö
 腡	luö
 蠡	luö
 捼	nuö
@@ -16484,7 +16480,6 @@ J	nrà
 㡊	khräp
 𣁴	khräp
 猲	khüöp
-姂	khüöp
 𤫶	khrät
 葜	khrät
 擖	khrät
@@ -17286,7 +17281,6 @@ J	nrà
 麮	khyó
 弆	khyó
 𧉧	khyó
-𥿇	khyó
 齲	khüó
 踽	khüó
 竘	khüó
@@ -17355,7 +17349,6 @@ J	nrà
 𪐂	khüón
 𥛁	khüä̀n
 飬	khüä̀n
-䠣	khüä̀n
 勸	khüòn
 劵	khüòn
 券	khüòn
@@ -19011,7 +19004,6 @@ J	nrà
 𤞚	siäu
 䴛	siäu
 揱	siäu
-奞	siäu
 魈	siäu
 篠	siéu
 筱	siéu
@@ -19404,6 +19396,7 @@ J	nrà
 螋	scyu
 䮟	scyu
 騪	scyu
+𤚔	scyu
 犙	scyu
 䤇	scyu
 醙	scyu
@@ -19416,6 +19409,7 @@ J	nrà
 摗	su
 𠘂	su
 𡠼	su
+𤚔	sciu
 犙	sciu
 𣸈	scyú
 溲	scyú
@@ -19771,7 +19765,7 @@ J	nrà
 戌	svit
 訹	svit
 珬	svit
-𧪞	svit
+𧧓	svit
 䳳	svit
 賉	svit
 𣸃	svit
@@ -20858,7 +20852,7 @@ J	nrà
 䳋	dong
 鼕	dong
 𢥞	dong
-𢾮	dong
+𢾮	hong
 爞	dong
 㤏	dong
 痋	dong
@@ -20870,7 +20864,7 @@ J	nrà
 䶱	dong
 𠩁	dong
 鉖	dong
-𨜳	dong
+𨜳	hong
 㠽	dong
 赨	dong
 同	dung
@@ -21295,7 +21289,7 @@ J	nrà
 䁷	qok
 觷	qok
 䮸	qok
-𤛹	ngok
+㹊	ngok
 物	müët
 勿	müët
 芴	müët
@@ -21478,6 +21472,7 @@ J	nrà
 獌	müòn
 䝡	müòn
 䨲	müòn
+𩆊	müòn
 𦂔	müòn
 贎	müòn
 䡬	müòn
@@ -23183,7 +23178,6 @@ J	nrà
 稧	xièi
 㰥	hièi
 㚛	hièi
-殢	hièi
 迄	hyët
 仡	hyët
 釳	hyët
@@ -23222,6 +23216,7 @@ J	nrà
 𪕯	xiek
 鸄	xiek
 獥	xiek
+𣒃	xiek
 椺	xiek
 䚫	xiek
 赥	hiek
@@ -25086,7 +25081,7 @@ J	nrà
 䗪	tsjiäk
 𩀝	tsjiäk
 䞠	tsjiäk
-𠪮	tsjiäk
+𠪮	phiäk
 䘸	tsjiäk
 擲	dciäk
 擿	dciäk
@@ -25468,7 +25463,6 @@ J	nrà
 穄	tsièj
 鰶	tsièj
 穧	tsièj
-㦣	tsièj
 𩯰	tsièj
 䰏	tsièj
 𩯷	tsièj
@@ -25539,7 +25533,6 @@ J	nrà
 𡧘	dziek
 𡧯	dziek
 𠴫	dziek
-䚐	dziek
 積	tsiäk
 脊	tsiäk
 蹐	tsiäk
@@ -25622,7 +25615,6 @@ J	nrà
 漅	tsiä́u
 𨙹	tsiä́u
 𤃭	tsiä́u
-膘	tsiä́u
 𢄺	tsiä́u
 噍	dziä̀u
 誚	dziä̀u
@@ -25750,7 +25742,7 @@ J	nrà
 褯	dzyà
 藉	dzyà
 躤	dzyà
-䣠	dzyà
+𨛳	dzyà
 䤳	dzyà
 唶	tsyà
 借	tsyà
@@ -25910,7 +25902,6 @@ J	nrà
 湫	tsyu
 𣟼	tsyu
 鬏	tsyu
-稵	tsiu
 酒	tsyú
 僦	tsyù
 䅢	tsyù
@@ -26121,7 +26112,6 @@ J	nrà
 麆	dzó
 觕	dzó
 族	dzuk
-銼	dzuk
 鑿	dzuk
 鏃	tsuk
 鎐	tsuk
@@ -26201,7 +26191,6 @@ J	nrà
 孨	tscüä̀n
 䞰	dzcwek
 䟄	dzcwek
-㩇	tscwek
 劑	tsvï
 㭰	tsvï
 𦸺	tsvï
@@ -26283,7 +26272,6 @@ J	nrà
 𡸨	tsüo
 娵	tsüo
 掫	tsüo
-嗺	tsüo
 陬	tsüo
 且	tsyo
 蛆	tsyo
