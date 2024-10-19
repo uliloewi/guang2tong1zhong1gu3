@@ -2824,6 +2824,7 @@ use_preset_vocabulary: true
 龡	tsjhvï
 推	tsjhvi
 蓷	tsjhvi
+䜅	tsjhvi
 鬌	dcüï
 錘	dcüï
 甀	dcüï
@@ -5070,7 +5071,6 @@ use_preset_vocabulary: true
 籓	püon
 鐇	püon
 䒦	phüöm
-𣢲	phüöm
 方	püang
 汸	püang
 坊	püang
@@ -5485,6 +5485,7 @@ use_preset_vocabulary: true
 䬌	phyu
 秠	phyu
 𡫺	phyu
+𡬇	phyu
 衃	phyu
 肧	phyu
 紑	phyu
@@ -11941,6 +11942,7 @@ use_preset_vocabulary: true
 梡	khuán
 棵	khuán
 䲌	khuán
+𣢲	khüöm
 凵	khüö́m
 㧄	khüö́m
 懬	khuáng
@@ -15867,7 +15869,6 @@ J	nrà
 皰	phràu
 疱	phràu
 礮	phràu
-𡜊	phöi
 牌	bre
 棑	bre
 䱝	bre
@@ -19631,7 +19632,6 @@ J	nrà
 挼	suöi
 䪎	suöi
 毸	suöi
-嗺	suöi
 蓑	suöi
 隨	zvï
 隋	zvï
@@ -26211,9 +26211,7 @@ J	nrà
 𤎱	tsvï
 㷷	tsvï
 䮔	tsvï
-嶉	tsvi
 檇	tsvi
-嗺	tsuöi
 脧	tsuöi
 䘒	tsuöi
 𡱥	tsuöi
@@ -26229,7 +26227,10 @@ J	nrà
 濢	tsví
 噿	tsví
 臎	tsví
-嗺	tsví
+嗺	suöi
+嗺	tsuöi
+嶉	tsví
+嶉	tsvi
 嶊	tsuö́i
 洅	tsuö́i
 醉	tsvì
