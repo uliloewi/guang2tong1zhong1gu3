@@ -9186,6 +9186,7 @@ use_preset_vocabulary: true
 岩	ngram
 礹	ngram
 𡆑	ngram
+㘙	ngram
 嚴	ngyöm
 䉷	ngyöm
 鹽	jiäm
@@ -12965,7 +12966,6 @@ J	nrà
 逆	ngyäk
 屰	ngyäk
 縌	ngyäk
-㘙	ngyäk
 𥿬	ngyäk
 𠱘	ngyäk
 良	lyang
@@ -18897,6 +18897,7 @@ J	nrà
 卌	sip
 霫	sip
 𧿅	sip
+𧿎	sip
 㗩	sip
 息	syk
 媳	syk
@@ -19265,11 +19266,11 @@ J	nrà
 𤜢	sìn
 奞	sìn
 阠	sìn
-賮	zìn
-燼	zìn
-藎	zìn
-濜	zìn
-贐	zìn
+賮	dzìn
+燼	dzìn
+藎	dzìn
+濜	dzìn
+贐	dzìn
 削	syak
 脩	syu
 修	syu
