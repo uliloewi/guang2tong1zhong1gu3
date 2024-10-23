@@ -4317,7 +4317,6 @@ use_preset_vocabulary: true
 䍄	tiém
 典	tién
 蕇	tién
-𩒝	tién
 錪	tién
 𥮏	tién
 碘	tién
@@ -8000,6 +7999,7 @@ use_preset_vocabulary: true
 䐸	hwek
 焃	hwek
 㩇	hwek
+㩇	xwek
 𢄶	hwek
 𨐶	hwek
 𥊮	hwek
@@ -10507,6 +10507,7 @@ use_preset_vocabulary: true
 𢺃	kién
 挸	kién
 𢹕	kién
+𩒝	kién
 蹇	kyä́n
 謇	kyä́n
 藆	kyä́n
@@ -10578,6 +10579,7 @@ use_preset_vocabulary: true
 拮	kiet
 狤	kiet
 魝	kiet
+𡔢	kiet
 𡔣	kiet
 𧍩	kiet
 傑	gyät
@@ -13756,6 +13758,8 @@ J	nrà
 驘	luö
 蔂	luö
 蔂	lvi
+𦿌	luö
+𦿌	lvi
 鸁	luö
 𣜄	luö
 螺	luö
@@ -16100,6 +16104,7 @@ J	nrà
 𣬈	bi
 毗	bi
 比	bi
+鵧	bi
 琵	bi
 㮰	bi
 芘	bi
@@ -16119,7 +16124,6 @@ J	nrà
 𦊁	bi
 阰	bi
 𧑜	bi
-鵧	bi
 鼙	biei
 鞞	biei
 椑	biei
@@ -16340,7 +16344,6 @@ J	nrà
 竮	bieng
 郱	bieng
 𤲒	bieng
-鵧	bieng
 洴	bieng
 箳	bieng
 品	phým
@@ -16749,7 +16752,10 @@ J	nrà
 䫔	khiet
 挈	khiet
 㼤	khiet
+𡔢	khiet
 𡔣	khiet
+𡔢	xiet
+𡔣	xiet
 契	khiet
 栔	khiet
 鍥	khiet
@@ -22763,6 +22769,7 @@ J	nrà
 𡦳	hràu
 皛	xiéu
 𦯪	xiéu
+芍	xiéu
 㵿	xiéu
 𠄔	xiéu
 𢓬	hräi
@@ -25778,6 +25785,7 @@ J	nrà
 𢧵	dziet
 截	dziet
 𧾢	dziet
+𧽟	dziet
 岊	dziet
 𡴺	dziet
 巀	dziet
@@ -26303,7 +26311,6 @@ J	nrà
 怚	dzyó
 袓	dzyó
 跙	dzyó
-𧽟	dzyó
 埾	dzüò
 聚	dzüò
 緅	tsüò
